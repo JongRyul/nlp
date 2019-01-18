@@ -1,0 +1,3 @@
+# tokenizing
+# parsing
+# embedding
