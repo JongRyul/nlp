@@ -2,6 +2,8 @@
 
 # 참고
 
+[Keras Functional API] https://keras.io/getting-started/functional-api-guide/
+
 [Using pre-trained word embeddings in a Keras model] https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 
 [Tokenizer] Kkma, Hannanum, Twitter, Mecab
