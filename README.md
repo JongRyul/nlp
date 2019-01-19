@@ -12,12 +12,11 @@
 
 
 
-
+---
 * kaggle - movie review classification
-
-** tokenizing - {simple, Kkma, Hannanum, Twitter, Mecab, Soynlp}
-** embedding - {onehot, w2v, glove, fasttext}
-** modle architecture - {vanillaRNN, LSTM, GRU, attention-based-LSTM, char-lv-CNN, token-CNN}
+  * **tokenizing** - {simple, Kkma, Hannanum, Twitter, Mecab, Soynlp}
+  * **embedding** - {onehot, w2v, glove, fasttext}
+  * **modle architecture** - {vanillaRNN, LSTM, GRU, attention-based-LSTM, char-lv-CNN, token-CNN}
 
 
 
